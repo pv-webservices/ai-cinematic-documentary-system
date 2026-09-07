@@ -1,0 +1,17 @@
+# Source Evaluation — SRC-XXX
+- Citation:
+- URL/DOI:
+- Source tier:
+- Primary/secondary:
+- Author/institution authority:
+- Publication date:
+- Relevance:
+- Methodology/evidence basis:
+- Conflict-of-interest considerations:
+- Directly supports which Claim IDs:
+- Newer evidence checked:
+- Independent confirmation:
+- Limitations:
+- SOURCE QUALITY: HIGH | MEDIUM | LOW
+- Reasoning:
+- Evaluator/Skill version:

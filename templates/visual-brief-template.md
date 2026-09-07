@@ -1,0 +1,12 @@
+# Visual Brief — VID-XXXX
+- Visual thesis:
+- Primary visual class: reconstruction / scientific visualization / hypothetical / documentary evidence / mixed
+- Historical/scientific constraints:
+- Geography/period/material constraints:
+- Scale constraints:
+- Continuity rules:
+- Mobile framing rules:
+- Diagram/map needs:
+- External asset provenance needs:
+- Reconstruction disclosures:
+- Visual owner/Skill version:

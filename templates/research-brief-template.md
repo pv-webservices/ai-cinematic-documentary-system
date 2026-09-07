@@ -1,0 +1,17 @@
+# Research Brief — TOPIC-XXXX
+- Central question:
+- Working title:
+- Scope:
+- Out of scope:
+- Audience assumption:
+- Key sub-questions:
+- Essential dates/people/places/terms:
+- Numerical claims to verify:
+- Causal claims to verify:
+- Disputed claims:
+- Visual claims:
+- Primary-source opportunities:
+- Authoritative secondary sources:
+- Search terms:
+- Stop conditions for research:
+- Research owner/Skill version:

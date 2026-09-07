@@ -1,0 +1,21 @@
+# Postmortem — VID-XXXX
+- Video ID:
+- Topic:
+- Central question:
+- Expected audience response:
+- Actual performance:
+- Hook performance:
+- Retention:
+- Strongest moment:
+- Largest drop-off:
+- Comment patterns:
+- Accuracy problems:
+- Corrections:
+- Visual problems:
+- What worked:
+- What failed:
+- Unexpected result:
+- Potential follow-up topics:
+- Skills affected:
+- Does this represent a pattern? yes/no/insufficient evidence
+- Evidence/sample context:

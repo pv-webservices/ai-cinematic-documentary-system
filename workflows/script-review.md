@@ -1,0 +1,11 @@
+# Script Review
+- Hook is truthful and fulfilled.
+- Central question remains visible.
+- Every major factual sentence has Claim IDs.
+- No major UNCERTAIN/REJECTED claim is stated as fact.
+- Causal language is justified.
+- Uncertainty is understandable, not buried.
+- Jargon is explained.
+- No repeated facts/filler.
+- Script fits intended duration.
+- Human approval recorded before storyboard.

@@ -1,0 +1,13 @@
+# Production Brief — VID-XXXX
+- Topic ID:
+- Approved script version:
+- Approved Claim Ledger date:
+- Skill versions used:
+- Target platform/duration/aspect ratio:
+- Visual strategy:
+- Narration strategy:
+- Sound strategy:
+- Required assets:
+- External asset provenance:
+- Blocking accuracy notes:
+- Human approvals completed:

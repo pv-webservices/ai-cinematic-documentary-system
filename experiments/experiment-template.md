@@ -1,0 +1,16 @@
+# EXP-XXX
+- Hypothesis:
+- Variable:
+- Control:
+- Variant:
+- Videos:
+- Topic category:
+- Primary metric:
+- Secondary metrics:
+- Sample size planned/actual:
+- Observation window:
+- Result:
+- Interpretation:
+- Confounders:
+- Decision:
+- Skill changes:

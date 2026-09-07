@@ -1,0 +1,43 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
+
+# Generated media / large renders
+media/generated/
+renders/
+exports/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.aiff
+*.flac
+*.psd
+*.blend
+
+# Temporary / caches
+.tmp/
+tmp/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environments
+.venv/
+venv/
+node_modules/
+
+# Editors
+.vscode/
+.idea/
+
+# Keep research text/artifact metadata versioned; do not ignore source packs or claim ledgers.
